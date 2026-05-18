@@ -35,9 +35,9 @@ Our model performs well on detecting car but generally struggles when detecting 
 
 # Sample Prediction Images
 
-![img1](https://raw.githubusercontent.com/prantooshhh/ANTS/refs/heads/main/sample_images/3.png)
+![img3](https://raw.githubusercontent.com/prantooshhh/visdrone-human-car-yolov8/refs/heads/main/images/sample_images/3.png)
 
-![img2](https://raw.githubusercontent.com/prantooshhh/ANTS/refs/heads/main/sample_images/1.png)
+![img1](https://raw.githubusercontent.com/prantooshhh/visdrone-human-car-yolov8/refs/heads/main/images/sample_images/1.png)
 
-![img3](https://raw.githubusercontent.com/prantooshhh/ANTS/refs/heads/main/sample_images/2.png)
+![img2](https://raw.githubusercontent.com/prantooshhh/visdrone-human-car-yolov8/refs/heads/main/images/sample_images/2.png)
 
